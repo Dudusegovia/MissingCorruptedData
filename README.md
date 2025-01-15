@@ -16,3 +16,5 @@
 #### Wilkinson, G. N. (1958). Estimation of Missing Values for the Analysis of Incomplete Data. Biometrics, 14(2), 257-268.
 
 #### Rubin, D. B. (1976). Inference of Missing Data. Biometrika, 63(3), 581-592.
+
+#### github: https://github.com/Dudusegovia
