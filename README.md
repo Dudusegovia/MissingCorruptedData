@@ -1,6 +1,6 @@
 # Estimativa de Valores Ausentes em Dados Incompletos
 ## Visão Geral
-#### Este projeto apresenta um modelo para a estimativa de valores ausentes em conjuntos de dados incompletos, inspirado nos trabalhos seminais de G. N. Wilkinson (1958) e D. B. Rubin (1976). Nosso método permite que análises estatísticas tradicionais sejam aplicadas a dados que possuem observações ausentes, minimizando a perda de precisão e melhorando a robustez dos resultados.
+#### Este projeto apresenta um modelo para a estimativa de valores ausentes em conjuntos de dados incompletos, inspirado nos trabalhos seminais de G. N. Wilkinson (1958) e D. B. Rubin (1976). Este método permite que análises estatísticas tradicionais sejam aplicadas a dados que possuem observações ausentes, minimizando a perda de precisão e melhorando a robustez dos resultados.
 
 ## Funcionalidades
 #### Minimização da Soma Residual dos Quadrados: Insere estimativas que minimizam a soma residual dos quadrados, garantindo a precisão dos parâmetros do modelo linear.
